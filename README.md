@@ -64,7 +64,7 @@ This step helps me to know more about the data distribution, in this step I trie
 - `BMI`: Pregnant women with diabetes tend to have a BMI >35
 - `age`: Pregnant women with diabetes are mostly between 38-45 years old
 
-![alt text](assets/bi_var.png)
+![alt text](assets/Bi_var.png)
 
 **Multivariate Analysis**
 
