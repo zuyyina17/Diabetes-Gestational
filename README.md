@@ -4,8 +4,9 @@ This study was conduct based on the data from [UCI Machine Learning](https://www
 **Study Objective** : Developing Machine Learning model by Comparing some classification algorithms for detecting gestational diabetes with high recall to minimize miss treatment for patient
 
 In this study, I try to make some scenarios to compare the algorithms, here are the scenarios:
-- Modeling section is dividing into 2 steps, one for Imbalance Class and another one for Balance Class
-- For every step I compare every algorithm by evaluating the data on Train and Test set 
+- Modeling and compare algorithms for Imbalance Class 
+- Modeling and compare algorithms for Balance Class
+- Comparing the best algorithm from 2 scenarios above
 
 Here are the outline of this project and the insights found in every section:
 
